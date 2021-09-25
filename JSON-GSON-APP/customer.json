@@ -1,0 +1,17 @@
+{
+	"customerId": 101,
+	"customerName": "udayakumar",
+	"customerAge": 33,
+	"customerEmailId": "mailofudayan@gmail.com",
+	"policy": {
+		"policyName": "Jeevan-Anand",
+		"startDate": "25-09-2021",
+		"endDate": "25-09-2021",
+		"premiumAmount": 500000.0
+	},
+	"address": {
+		"city": "vellore",
+		"Country": "India",
+		"pincode": "632058"
+	}
+}

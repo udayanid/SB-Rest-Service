@@ -28,3 +28,17 @@ hs_err_pid*
 #excluding project target folders
 !**/src/main/**/target/
 !**/src/test/**/target/
+JSON-JACKSON-APP/target/classes/META-INF/MANIFEST.MF
+JSON-GSON-APP/.classpath
+JSON-GSON-APP/.project
+JSON-GSON-APP/.settings/org.eclipse.jdt.core.prefs
+JSON-GSON-APP/.settings/org.eclipse.m2e.core.prefs
+JSON-GSON-APP/target/classes/META-INF/MANIFEST.MF
+JSON-GSON-APP/target/classes/META-INF/maven/com.udayan.gson/JSON-GSON-API/pom.properties
+JSON-GSON-APP/target/classes/META-INF/maven/com.udayan.gson/JSON-GSON-API/pom.xml
+JSON-JACKSON-APP/.classpath
+JSON-JACKSON-APP/.project
+JSON-JACKSON-APP/.settings/org.eclipse.jdt.core.prefs
+JSON-JACKSON-APP/.settings/org.eclipse.m2e.core.prefs
+JSON-JACKSON-APP/target/classes/META-INF/maven/com.udayan/json-app/pom.xml
+JSON-JACKSON-APP/target/classes/META-INF/maven/com.udayan/json-app/pom.properties
